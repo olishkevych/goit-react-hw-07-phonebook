@@ -1,0 +1,10 @@
+.LoaderWrapper {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+}
+
+.LoaderWrapper svg {
+  margin: 200px auto auto 200px;
+}

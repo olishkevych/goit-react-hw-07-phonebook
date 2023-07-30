@@ -38,3 +38,9 @@ ul {
 span {
   width: 100px;
 }
+
+.warning {
+  margin-top: 40px;
+  text-align: center;
+  font-style: italic;
+}
